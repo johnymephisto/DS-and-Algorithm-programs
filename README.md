@@ -1,1 +1,1 @@
-Algorithms and Data Structures Problems solved
+Algorithms and Data Structures Problems and their solutions
